@@ -1,1 +1,1 @@
-# SPSGP-101603-Virtual-Internship---Android-Application-Development-Using-Kotlin
+# Thanks SmartInterz and Google for providing this opportunity ❤️
