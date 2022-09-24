@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Grocery App</string>
+    <string name="my_shopping_list">My Shopping List</string>
+    <string name="add_item">Add Item</string>
+    <string name="item_name_placeholder">Item Name</string>
+    <string name="quantity_placeholder">Quantity</string>
+    <string name="rate_placeholder">Rate</string>
+    <string name="delete_icon">Delete_icon</string>
+    <string name="total_cost_label">Total Cost :</string>
+    <string name="amount_placeholder">Amount</string>
+    <string name="add_item_to_list_label">Add Item To List</string>
+    <string name="enter_item_name_label">Enter item Name</string>
+    <string name="enter_item_quantity_in_kg_label">Enter item Quantity in kg</string>
+    <string name="enter_item_price_kg_label">Enter item Price /kg</string>
+    <string name="cancel_btn_label">Cancel</string>
+    <string name="add_btn_label">Add</string>
+</resources>
